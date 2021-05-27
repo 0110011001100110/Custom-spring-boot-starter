@@ -7,7 +7,7 @@
 
  Then add the built artifactId as a dependency in your project's pom.xml. As an example, I created a simple spring boot project that has a simple rest api named spring-rest-demo. In spring-rest-demo, I added the custom spring-boot-starter artifactId in pom.xml as a dependecy.
  
- To start learning about spring-boot-starters and writing your own custom spring-boot-starter, below links are so helpful as an start point:
+ To start learning about spring-boot-starters and writing your own custom spring-boot-starter, below links are so helpful as a start point:
  
  
 https://www.baeldung.com/spring-boot-starters
